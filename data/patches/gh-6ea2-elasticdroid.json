@@ -1,0 +1,47 @@
+{
+	"id": -1,
+	"name": "ElasticDroid",
+	"description": "ElasticDroid is a YouTuber and Twitch Streamer.",
+	"links": {
+		"website": [
+			"https://www.youtube.com/@ElasticDroid",
+			"https://www.twitch.tv/elasticdroid"
+		],
+		"subreddit": [
+			"ElasticDroid"
+		],
+		"discord": [
+			"elasticdroid"
+		]
+	},
+	"path": {
+		"164": [
+			[
+				1548,
+				1121
+			],
+			[
+				1560,
+				1087
+			],
+			[
+				1525,
+				1088
+			],
+			[
+				1525,
+				1121
+			],
+			[
+				1549,
+				1121
+			]
+		]
+	},
+	"center": {
+		"164": [
+			1540,
+			1102
+		]
+	}
+}
